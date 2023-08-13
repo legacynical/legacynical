@@ -1,4 +1,5 @@
-### Hi there 👋
+## Working on a portfolio/blog!
+
 
 <!--
 **legacynical/legacynical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
